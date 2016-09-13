@@ -1,7 +1,7 @@
 [
 {
 	"type":0,
-	"img":"https://github.com/pradeep9868/test_json/blob/master/desktop.jpg",
+	"img":"https://github.com/pradeep9868/test_json/blob/master/desktop.JPG",
 	"name":"Desktop",
 	"code":"A321YR",
 	"alloc_on":"02/03/2016",
