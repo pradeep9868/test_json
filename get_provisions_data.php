@@ -1,7 +1,7 @@
 [
 {
 	"type":0,
-	"img":"https://github.com/pradeep9868/test_json/blob/master/desktop.jpg"
+	"img":"https://github.com/pradeep9868/test_json/blob/master/desktop.jpg",
 	"name":"Desktop",
 	"code":"A321YR",
 	"alloc_on":"02/03/2016",
@@ -9,7 +9,7 @@
 },
 {
 	"type":1,
-	"img":"https://github.com/pradeep9868/test_json/blob/master/laptop.jpg"
+	"img":"https://github.com/pradeep9868/test_json/blob/master/laptop.jpg",
 	"name":"Laptop",
 	"code":"B674SJ",
 	"alloc_on":"08/06/2016",
@@ -17,7 +17,7 @@
 },
 {
 	"type":2,
-	"img":"https://github.com/pradeep9868/test_json/blob/master/mobile.png"
+	"img":"https://github.com/pradeep9868/test_json/blob/master/mobile.png",
 	"name":"Mobile",
 	"code":"C435LK",
 	"alloc_on":"25/08/2016",
@@ -25,7 +25,7 @@
 },
 {
 	"type":3,
-	"img":"https://github.com/pradeep9868/test_json/blob/master/drawer.jpg"
+	"img":"https://github.com/pradeep9868/test_json/blob/master/drawer.jpg",
 	"name":"Drawer",
 	"code":"D875SK",
 	"alloc_on":"13/07/2016",
@@ -33,7 +33,7 @@
 },
 {
 	"type":4,
-	"img":"https://github.com/pradeep9868/test_json/blob/master/pendrive.jpg"
+	"img":"https://github.com/pradeep9868/test_json/blob/master/pendrive.jpg",
 	"name":"Pen Drive",
 	"code":"E234HJ",
 	"alloc_on":"26/02/2016",
