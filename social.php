@@ -3,11 +3,11 @@
 "data" : [
 {
 "emp_detail" : {
-full_name: "Rahul Chhabra",
-_id: "587f036439473eba7c6e5920",
-profile_pic: "https://q.qandle.com/useraddition/image/587f89e039473ebb4d6e5920/22995.jpg",
-crop_type: "1",
-display_detail: [
+"full_name": "Rahul Chhabra",
+"_id": "587f036439473eba7c6e5920",
+"profile_pic": "https://q.qandle.com/useraddition/image/587f89e039473ebb4d6e5920/22995.jpg",
+"crop_type": "1",
+"display_detail": [
 "Rahul Chhabra",
 "Product",
 "Manager Operations & Product"
@@ -36,45 +36,45 @@ Only for those who enjoyed their school life??????",
 },
 {
 "emp_detail" : {
-full_name: "Arun Chandramohan",
-_id: "587e4de639473e9602293027",
-profile_pic: "https://q.qandle.com/useraddition/image/587f852d39473efe446e591f/60155.jpg",
-crop_type: "1",
-display_detail: [
+"full_name": "Arun Chandramohan",
+"_id": "587e4de639473e9602293027",
+"profile_pic": "https://q.qandle.com/useraddition/image/587f852d39473efe446e591f/60155.jpg",
+"crop_type": "1",
+"display_detail": [
 "Arun Chandramohan",
 "Managing Director",
 "Managing Director"
 ]
 },
-"post" : "ìYouíll attract the employees you need if you can explain why your mission is compelling: not why itís important in general, but why youíre doing something important that no one else is going to get done.î ñ Peter Thiel #EmployeeEngagement #MissionVision",
+"post" : "‚ÄúYou‚Äôll attract the employees you need if you can explain why your mission is compelling: not why it‚Äôs important in general, but why you‚Äôre doing something important that no one else is going to get done.‚Äù ‚Äì Peter Thiel #EmployeeEngagement #MissionVision",
 "image" : "http://image-store.slidesharecdn.com/9883d52e-1f23-41f2-9d74-ff79d7f5c6f2-large.jpeg",
 "likes" : "44",
 "comment" : "5"
 },
 {
 "emp_detail" : {
-full_name: "Chayan Mukhopadhyay",
-_id: "587e49dc39473ee015293024",
-profile_pic: "https://q.qandle.com/useraddition/image/587f867139473e2d3d6e5960/59242.jpg",
-crop_type: "1",
-display_detail: [
+"full_name": "Chayan Mukhopadhyay",
+"_id": "587e49dc39473ee015293024",
+"profile_pic": "https://q.qandle.com/useraddition/image/587f867139473e2d3d6e5960/59242.jpg",
+"crop_type": "1",
+"display_detail": [
 "Chayan Mukhopadhyay",
 "Product, Business",
 "Director"
 ]
 },
-"post" : "ìThrow yourself into some work you believe in with all your heart, live for it, die for it, and you will find happiness that you had thought could never be yours.î ñ Dale Carnegie #EmployeeEngagement #OrgStrength",
+"post" : "‚ÄúThrow yourself into some work you believe in with all your heart, live for it, die for it, and you will find happiness that you had thought could never be yours.‚Äù ‚Äì Dale Carnegie #EmployeeEngagement #OrgStrength",
 "image" : "http://image-store.slidesharecdn.com/e92d2a79-2b13-4a36-a101-42c7f8fb1d9f-large.jpeg",
 "likes" : "14",
 "comment" : "6"
 },
 {
 "emp_detail" : {
-full_name: "Pradeep Kumar Kushwaha",
-_id: "587f3d0239473e4e1f6e5920",
-profile_pic: "https://q.qandle.com/useraddition/image/587f913439473e73526e5923/95835.jpg",
-crop_type: "1",
-display_detail: [
+"full_name": "Pradeep Kumar Kushwaha",
+"_id": "587f3d0239473e4e1f6e5920",
+"profile_pic": "https://q.qandle.com/useraddition/image/587f913439473e73526e5923/95835.jpg",
+"crop_type": "1",
+"display_detail": [
 "Pradeep Kumar Kushwaha",
 "Technology",
 "Software Engineer"
@@ -87,28 +87,28 @@ display_detail: [
 },
 {
 "emp_detail" : {
-full_name: "Komal Choudhary",
-_id: "587f048539473e247e6e591f",
-profile_pic: "https://q.qandle.com/useraddition/image/587f8a7239473edc436e5922/41978.jpg",
-crop_type: "1",
-display_detail: [
+"full_name": "Komal Choudhary",
+"_id": "587f048539473e247e6e591f",
+"profile_pic": "https://q.qandle.com/useraddition/image/587f8a7239473edc436e5922/41978.jpg",
+"crop_type": "1",
+"display_detail": [
 "Komal Choudhary",
 "Business",
 "Payroll & HR Specialist"
 ]
 },
-"post" : "Increase #Transparency through #SelfService and providing pay slips, tax slips, PF/ESI statement, Form 16ís etc.",
+"post" : "Increase #Transparency through #SelfService and providing pay slips, tax slips, PF/ESI statement, Form 16‚Äôs etc.",
 "image" : "",
 "likes" : "3",
 "comment" : "9"
 },
 {
 "emp_detail" : {
-full_name: "Vipin Chandra Papnai",
-_id: "587f02be39473e2d7d6e5920",
-profile_pic: "https://q.qandle.com/useraddition/image/587f916c39473e57536e591f/46784.jpg",
-crop_type: "1",
-display_detail: [
+"full_name": "Vipin Chandra Papnai",
+"_id": "587f02be39473e2d7d6e5920",
+"profile_pic": "https://q.qandle.com/useraddition/image/587f916c39473e57536e591f/46784.jpg",
+"crop_type": "1",
+"display_detail": [
 "Vipin Chandra Papnai",
 "Technology",
 "Software Engineer"
@@ -121,11 +121,11 @@ display_detail: [
 },
 {
 "emp_detail" : {
-full_name: "Gaurav Chaubey",
-_id: "587f018039473eb77c6e5925",
-profile_pic: "https://q.qandle.com/useraddition/image/587f934839473e334e6e5922/70872.",
-crop_type: "1",
-display_detail: [
+"full_name": "Gaurav Chaubey",
+"_id": "587f018039473eb77c6e5925",
+"profile_pic": "https://q.qandle.com/useraddition/image/587f934839473e334e6e5922/70872.",
+"crop_type": "1",
+"display_detail": [
 "Gaurav Chaubey",
 "Technology",
 "Software Engineer"
@@ -138,11 +138,11 @@ display_detail: [
 },
 {
 "emp_detail" : {
-full_name: "Rajendra Bhilwara",
-_id: "587f012339473eb67c6e5920",
-profile_pic: "https://q.qandle.com/useraddition/image/587f946439473e73526e5929/72380.png",
-crop_type: "1",
-display_detail: [
+"full_name": "Rajendra Bhilwara",
+"_id": "587f012339473eb67c6e5920",
+"profile_pic": "https://q.qandle.com/useraddition/image/587f946439473e73526e5929/72380.png",
+"crop_type": "1",
+"display_detail": [
 "Rajendra Bhilwara",
 "Product",
 "UI/UX Designer"
@@ -155,11 +155,11 @@ display_detail: [
 },
 {
 "emp_detail" : {
-full_name: "Jitender Singh",
-_id: "587efff639473ea47b6e5924",
-profile_pic: "https://q.qandle.com/useraddition/image/587f92ee39473e14546e591f/40654.jpg",
-crop_type: "1",
-display_detail: [
+"full_name": "Jitender Singh",
+"_id": "587efff639473ea47b6e5924",
+"profile_pic": "https://q.qandle.com/useraddition/image/587f92ee39473e14546e591f/40654.jpg",
+"crop_type": "1",
+"display_detail": [
 "Jitender Singh",
 "Technology",
 "Software Engineer"
@@ -172,11 +172,11 @@ display_detail: [
 },
 {
 "emp_detail" : {
-full_name: "Neetesh Kumar",
-_id: "587eff7039473e7a7c6e591f",
-profile_pic: "https://q.qandle.com/useraddition/image/587f92b439473e59536e5925/24927.jpg",
-crop_type: "1",
-display_detail: [
+"full_name": "Neetesh Kumar",
+"_id": "587eff7039473e7a7c6e591f",
+"profile_pic": "https://q.qandle.com/useraddition/image/587f92b439473e59536e5925/24927.jpg",
+"crop_type": "1",
+"display_detail": [
 "Neetesh Kumar",
 "Technology",
 "Software Engineer"
@@ -190,11 +190,11 @@ https://lnkd.in/fQAvctW",
 },
 {
 "emp_detail" : {
-full_name: "Utkarsh Singh",
-_id: "587efe6039473eaa7b6e591f",
-profile_pic: "https://q.qandle.com/useraddition/image/587f926b39473e59536e5922/94186.jpg",
-crop_type: "1",
-display_detail: [
+"full_name": "Utkarsh Singh",
+"_id": "587efe6039473eaa7b6e591f",
+"profile_pic": "https://q.qandle.com/useraddition/image/587f926b39473e59536e5922/94186.jpg",
+"crop_type": "1",
+"display_detail": [
 "Utkarsh Singh",
 "Technology",
 "Software Engineer"
