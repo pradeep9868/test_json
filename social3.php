@@ -32,7 +32,7 @@
 "Managing Director"
 ]
 },
-"post" : "ìYouíll attract the employees you need if you can explain why your mission is compelling: not why itís important in general, but why youíre doing something important that no one else is going to get done.î ñ Peter Thiel #EmployeeEngagement #MissionVision",
+"post" : "‚ÄúYou‚Äôll attract the employees you need if you can explain why your mission is compelling: not why it‚Äôs important in general, but why you‚Äôre doing something important that no one else is going to get done.‚Äù ‚Äì Peter Thiel #EmployeeEngagement #MissionVision",
 "image" : "http://image-store.slidesharecdn.com/9883d52e-1f23-41f2-9d74-ff79d7f5c6f2-large.jpeg",
 "likes" : "44",
 "comment" : "5",
@@ -51,7 +51,7 @@
 "Director"
 ]
 },
-"post" : "ìThrow yourself into some work you believe in with all your heart, live for it, die for it, and you will find happiness that you had thought could never be yours.î ñ Dale Carnegie #EmployeeEngagement #OrgStrength",
+"post" : "‚ÄúThrow yourself into some work you believe in with all your heart, live for it, die for it, and you will find happiness that you had thought could never be yours.‚Äù ‚Äì Dale Carnegie #EmployeeEngagement #OrgStrength",
 "image" : "http://image-store.slidesharecdn.com/e92d2a79-2b13-4a36-a101-42c7f8fb1d9f-large.jpeg",
 "likes" : "14",
 "comment" : "6",
@@ -89,7 +89,7 @@
 "Payroll & HR Specialist"
 ]
 },
-"post" : "Increase #Transparency through #SelfService and providing pay slips, tax slips, PF/ESI statement, Form 16ís etc.",
+"post" : "Increase #Transparency through #SelfService and providing pay slips, tax slips, PF/ESI statement, Form 16‚Äôs etc.",
 "image" : "",
 "likes" : "3",
 "comment" : "9",
@@ -128,7 +128,7 @@
 ]
 },
 "post" : "You can quibble with those numbers--and we will--because the human heart is one #Performance variable that's impossible to measure, despite the business world's #Obsession with metrics.",
-"image" : "",
+"image" : "https://www.incimages.com/uploaded_files/image/970x450/new-rules_44774.jpg",
 "likes" : "17",
 "link" : "https://www.inc.com/magazine/201412/paul-keegan/the-new-rules-of-engagement.html",
 "description" : "The 5 New Rules of Employee Engagement",
