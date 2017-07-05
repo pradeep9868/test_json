@@ -13,23 +13,7 @@
 "Manager Operations & Product"
 ]
 },
-"post" : "Do you still remember those awkward days in schools during Exams ?
-
-When a bright student tells the invigilator that question 4 has a problem, but you have already answered it...????
-
-When a fellow student asks for a graph paper, but you are finished and did not see anywhere where it was required...?? ????
-
-When the invigilator says jump question 6 we will rectify it later, but it was the question you enjoyed most when answering...?? ????
-
-When you see people busy using rulers and you are wondering what is going on...??????
-
-When you hear your friends arguing after the exam whether the answer to question 5 was 35.5% or 36.5% and your answer was 1800 ????
-
-The cream. When the other students asked for 4-5 additional answer sheets and You had two pages empty in the main answer sheet??????
-
-See where you have reached in life inspite of those moments...things are not permanent...enjoy life! ????
-
-Only for those who enjoyed their school life??????",
+"post" : "#Entrepreneurs often underestimate the complexity of #HRFunctions and the field's requisite legal requirements - Investing in #HRMS could help. #SmartHR #DigitalTransformation #HRTech",
 "image" : "",
 "likes" : "20",
 "comment" : "3"
@@ -182,8 +166,7 @@ Only for those who enjoyed their school life??????",
 "Software Engineer"
 ]
 },
-"post" : "Digital and #ConsumerMarketing are permeating new ways of #Recruiting, working, learning, and #EngagingEmployees. #SmartHR #DigitalTransformation
-https://lnkd.in/fQAvctW",
+"post" : "Digital and #ConsumerMarketing are permeating new ways of #Recruiting, working, learning, and #EngagingEmployees. #SmartHR #DigitalTransformation https://lnkd.in/fQAvctW",
 "image" : "",
 "likes" : "18",
 "comment" : "6"
@@ -200,8 +183,7 @@ https://lnkd.in/fQAvctW",
 "Software Engineer"
 ]
 },
-"post" : "#HRMS also refers to the integration of #HumanResource management and #InformationTechnology to automate and facilitate human resource activities.
-https://lnkd.in/gGvBFjc",
+"post" : "#HRMS also refers to the integration of #HumanResource management and #InformationTechnology to automate and facilitate human resource activities. https://lnkd.in/gGvBFjc",
 "image" : "",
 "likes" : "1",
 "comment" : "1"
