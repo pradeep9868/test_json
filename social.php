@@ -16,7 +16,9 @@
 "post" : "#Entrepreneurs often underestimate the complexity of #HRFunctions and the field's requisite legal requirements - Investing in #HRMS could help. #SmartHR #DigitalTransformation #HRTech",
 "image" : "",
 "likes" : "20",
-"comment" : "3"
+"comment" : "3",
+"type" : "status",
+"created_time" : "2017-05-07T18:11:34+0000"
 },
 {
 "emp_detail" : {
@@ -33,7 +35,9 @@
 "post" : "“You’ll attract the employees you need if you can explain why your mission is compelling: not why it’s important in general, but why you’re doing something important that no one else is going to get done.” – Peter Thiel #EmployeeEngagement #MissionVision",
 "image" : "http://image-store.slidesharecdn.com/9883d52e-1f23-41f2-9d74-ff79d7f5c6f2-large.jpeg",
 "likes" : "44",
-"comment" : "5"
+"comment" : "5",
+"type" : "photo",
+"created_time" : "2017-05-07T18:11:34+0000"
 },
 {
 "emp_detail" : {
@@ -50,7 +54,9 @@
 "post" : "“Throw yourself into some work you believe in with all your heart, live for it, die for it, and you will find happiness that you had thought could never be yours.” – Dale Carnegie #EmployeeEngagement #OrgStrength",
 "image" : "http://image-store.slidesharecdn.com/e92d2a79-2b13-4a36-a101-42c7f8fb1d9f-large.jpeg",
 "likes" : "14",
-"comment" : "6"
+"comment" : "6",
+"type" : "photo",
+"created_time" : "2017-05-07T18:11:34+0000"
 },
 {
 "emp_detail" : {
@@ -67,7 +73,9 @@
 "post" : "I have always believed that the way you treat your employees is the way they will treat your customers, and that people flourish when they are praised - Richard Branson #Leadership #EmployeeEngagement",
 "image" : "http://image-store.slidesharecdn.com/eb7f7b04-4974-4a9c-9f8c-e0995276f34d-large.jpeg",
 "likes" : "32",
-"comment" : "13"
+"comment" : "13",
+"type" : "photo",
+"created_time" : "2017-05-07T18:11:34+0000"
 },
 {
 "emp_detail" : {
@@ -84,7 +92,9 @@
 "post" : "Increase #Transparency through #SelfService and providing pay slips, tax slips, PF/ESI statement, Form 16’s etc.",
 "image" : "",
 "likes" : "3",
-"comment" : "9"
+"comment" : "9",
+"type" : "status",
+"created_time" : "2017-05-07T18:11:34+0000"
 },
 {
 "emp_detail" : {
@@ -101,7 +111,9 @@
 "post" : "#HumanResources are like natural resources; they're often buried deep. You have to go looking for them, they're not just lying around on the surface. You have to create the circumstances where they show themselves.",
 "image" : "",
 "likes" : "4",
-"comment" : "3"
+"comment" : "3",
+"type" : "status",
+"created_time" : "2017-05-07T18:11:34+0000"
 },
 {
 "emp_detail" : {
@@ -118,7 +130,9 @@
 "post" : "You can quibble with those numbers--and we will--because the human heart is one #Performance variable that's impossible to measure, despite the business world's #Obsession with metrics.",
 "image" : "",
 "likes" : "17",
-"comment" : "13"
+"comment" : "13",
+"type" : "status",
+"created_time" : "2017-05-07T18:11:34+0000"
 },
 {
 "emp_detail" : {
@@ -135,7 +149,9 @@
 "post" : "As organizations become more #Digital, they face a growing imperative to redesign themselves to move faster, adapt more quickly and facilitate rapid #Learning. #SmartHR #DigitalTrends",
 "image" : "",
 "likes" : "26",
-"comment" : "2"
+"comment" : "2",
+"type" : "status",
+"created_time" : "2017-05-07T18:11:34+0000"
 },
 {
 "emp_detail" : {
@@ -152,7 +168,9 @@
 "post" : "#HR is at a crossroads, as #Technology can now accomplish many of those traditional responsibilities faster, cheaper, and better than before. #SmartHR #DigitalTransformation",
 "image" : "",
 "likes" : "32",
-"comment" : "13"
+"comment" : "13",
+"type" : "status",
+"created_time" : "2017-05-07T18:11:34+0000"
 },
 {
 "emp_detail" : {
@@ -169,7 +187,9 @@
 "post" : "Digital and #ConsumerMarketing are permeating new ways of #Recruiting, working, learning, and #EngagingEmployees. #SmartHR #DigitalTransformation https://lnkd.in/fQAvctW",
 "image" : "",
 "likes" : "18",
-"comment" : "6"
+"comment" : "6",
+"type" : "status",
+"created_time" : "2017-05-07T18:11:34+0000"
 },
 {
 "emp_detail" : {
@@ -186,7 +206,9 @@
 "post" : "#HRMS also refers to the integration of #HumanResource management and #InformationTechnology to automate and facilitate human resource activities. https://lnkd.in/gGvBFjc",
 "image" : "",
 "likes" : "1",
-"comment" : "1"
+"comment" : "1",
+"type" : "status",
+"created_time" : "2017-05-07T18:11:34+0000"
 }
 
 ]
